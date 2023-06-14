@@ -15,5 +15,5 @@ kind: Namespace
 apiVersion: v1
 metadata:
   name: 5500018u3h-se-l3
-  labels
+  labels:
     deploy.razee.io/mode: "EnsureExists" 
