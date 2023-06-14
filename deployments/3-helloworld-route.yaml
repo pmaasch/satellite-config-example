@@ -15,7 +15,7 @@ apiVersion: route.openshift.io/v1
 kind: Route
 metadata:
   name: helloworld-route
-  namespace: 5500018u3h-ns
+  namespace: 5500018u3h-se-l3
   labels:
     razee/watch-resource: lite
 spec:
